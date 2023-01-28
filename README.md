@@ -5,4 +5,4 @@
 ***
 ![Characte](Characters/Fireman.png "Fire") ![Character](Characters/Knight.png "Knight") ![Character](Characters/Platformer_girl.png "Platformer girl") ![Character](Characters/Fighter.png "Fighter")
 ***
-![Character](Characters/Archer.png "Archer") ![Character](Characters/Portrait1.png "Portrait") ![Character](Characters/FighterPortrait.png)
+![Character](Characters/Archer.png "Archer") ![Character](Characters/Portrait1.png "Portrait") ![Character](Characters/FighterPortrait.png "Fighter Portrait") ![Character](Characters/KnightPortrait.png "Knight Portrait")
