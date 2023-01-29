@@ -8,6 +8,9 @@
 ![Character](Characters/Archer.png "Archer") ![Character](Characters/Portrait1.png "Portrait") ![Character](Characters/FighterPortrait.png "Fighter Portrait") ![Character](Characters/KnightPortrait.png "Knight Portrait")
 ***
 ### Animation
-![Crate](Animation/WoodenCrate.gif "Wooden Crate") ![Fighter](Animation/Fighter_Idle.gif "Idle") ![Running](Animation/Running.gif "Running") ![Jumping](Animation/Jumping.gif "Jumping")
+![Fighter](Animation/Fighter_Idle.gif "Idle") ![Running](Animation/Running.gif "Running") ![Jumping](Animation/Jumping.gif "Jumping") ![Attack](Animation/Attack.gif "Attack") ![HitAndDeat](Animation/HitAndDeath.gif "Hit and Death")
 ***
-![Attack](Animation/Attack.gif "Attack") ![HitAndDeat](Animation/HitAndDeath.gif "Hit and Death")
+![Crate](Animation/WoodenCrate.gif "Wooden Crate") 
+
+***
+### Monsters
