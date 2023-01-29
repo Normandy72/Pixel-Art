@@ -10,4 +10,4 @@
 ### Animation
 ![Crate](Animation/WoodenCrate.gif "Wooden Crate") ![Fighter](Animation/Fighter_Idle.gif "Idle") ![Running](Animation/Running.gif "Running") ![Jumping](Animation/Jumping.gif "Jumping")
 ***
-![Attack](Animation/Attack.gif "Attack")
+![Attack](Animation/Attack.gif "Attack") ![HitAndDeat](Animation/HitAndDeath.gif "Hit and Death")
