@@ -14,3 +14,4 @@
 
 ***
 ### Monsters
+![Slime](Monsters/slime1.png "Slime")
