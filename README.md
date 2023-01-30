@@ -16,4 +16,4 @@
 ### Monsters
 ![Slime](Monsters/slime1.png "Slime") ![Slime](Monsters/slime2.png "Slime") ![Bat](Monsters/bat.png "Bat") ![Hawk](Monsters/hawk.png "Hawk") ![Demon](Monsters/demon.png "Demon") ![Goblin](Monsters/goblin.png "Goblin") ![Mimic](Monsters/mimic.png "Mimic monster") ![Angry](Monsters/angry_mimic.png "Angry mimic")
 
-![Slime](Monsters/slime1_jump.gif "Slime")
+![Slime](Monsters/slime1_jump.gif "Slime") ![Bat](Monsters/bat.gif "Bat")
