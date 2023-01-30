@@ -14,4 +14,4 @@
 
 ***
 ### Monsters
-![Slime](Monsters/slime1.png "Slime") ![Slime](Monsters/slime2.png "Slime")
+![Slime](Monsters/slime1.png "Slime") ![Slime](Monsters/slime2.png "Slime") ![Bat](Monsters/bat.png "Bat")
